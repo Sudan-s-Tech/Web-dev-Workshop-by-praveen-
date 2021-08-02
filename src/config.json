@@ -1,0 +1,153 @@
+{
+  "Sidebar": {
+    "ProfileInfo": {
+      "Name": "Everly Precia Suresh",
+      "Image": "data:image/jpeg;base64,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",
+      "Role": "Web Developer"
+    },
+    "ContactInfo": [
+      {
+        "Icon": "globe",
+        "text": "everlyprecia.medium.com",
+        "href": "https://everlyprecia.medium.com/"
+      },
+      {
+        "Icon": "linkedin",
+        "text": "Everly Precia Suresh",
+        "href": "https://www.linkedin.com/in/everly-precia-suresh-196bba1b7/"
+      },
+      {
+        "Icon": "github",
+        "text": "@everly-gif",
+        "href": "https://github.com/everly-gif"
+      },
+      {
+        "Icon": "map-marker",
+        "text": "Chennai, India",
+        "href": "https://www.google.com/maps/place/Chennai,+Tamil+Nadu/@13.0474878,80.0689252,11z/data=!3m1!4b1!4m5!3m4!1s0x3a5265ea4f7d3361:0x6e61a70b6863d433!8m2!3d13.0826802!4d80.2707184"
+      }
+    ],
+    "Education": [
+      {
+        "Years": "2010 - 2019",
+        "Degree": "High School",
+        "Univ": " The PSBB Millennium School"
+      },
+      {
+        "Years": "2019 - 2023",
+        "Degree": "BTech CSE",
+        "Univ": "SRM University"
+      }
+    ],
+    "Language": [
+      {
+        "Name": "English",
+        "proficiency": 95
+      },
+      {
+        "Name": "Tamil",
+        "proficiency": 85
+      },
+      {
+        "Name": "German",
+        "proficiency": 30
+      },
+      {
+        "Name": "Hindi",
+        "proficiency": 70
+      }
+    ],
+    "Accomplishments": [
+      {
+        "title": "Education Outreach Program ML",
+        "role": "Scholar",
+        "Org": "Girlscript Foundation"
+      },
+      {
+        "title": "Tech Trail Workshop",
+        "role": "Speaker",
+        "Org": "Salesforce Student Group SRM"
+      }
+    ],
+    "Interests": [
+      {
+        "Icon": "book",
+        "text": "Reading"
+      },
+      {
+        "Icon": "pencil",
+        "text": "Journaling"
+      },
+      {
+        "Icon": "birthday-cake",
+        "text": "Baking"
+      },
+      {
+        "Icon": "bicycle",
+        "text": "Cycling"
+      }
+    ]
+  },
+
+  "Main": {
+    "Bio": {
+      "Para1": "A 3rd Year CSE Undergrad With Keen Interest in Web Development and Opensource. A dedicated Individual, passionate in working with technology and leveraging them to it's fullest potentials.",
+      "Para2": "Looking for roles under the web development domain in organizations where I can apply my skills for the organization's benefit as well as have a platform to explore and learn."
+    },
+    "Experience": [
+      {
+        "Year": "2021- Present",
+        "Company": "SkyGoal INC",
+        "Position": "Web Development Intern",
+        "desc": "Responsibilties include writing neat code,maintaining documentation, integrating backend services and cooperating with web designers to match the visual design intent."
+      }
+    ],
+    "Skills": [
+      {
+        "Skill": "HTML5",
+        "Proficiency": 80
+      },
+      {
+        "Skill": "CSS3",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "Javascript",
+        "Proficiency": 60
+      },
+      {
+        "Skill": "Bootstrap",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "Jquery and AJAX",
+        "Proficiency": 60
+      },
+      {
+        "Skill": "PHP",
+        "Proficiency": 70
+      },
+      {
+        "Skill": "MYSQL",
+        "Proficiency": 70
+      }
+    ],
+    "Projects": [
+      {
+        "Year": "2020- 2021",
+        "Name": "CAR E RENTAL",
+        "desc": "An online car renting system which allows you to rent cars at affordable costs. Worked on  Login/registration system, User profile set up, Update profile set up, Payment integration, Product landing page, Search bar, Double booking and race conditions, Ui Design and Front end.",
+
+        "link": "https://carerental.000webhostapp.com/"
+      },
+      {
+        "Year": "2021",
+        "Name": "CovidPort (Hackathon Project)",
+        "desc": "A one stop portal to connect individuals to be more self-aware, educated and supportive of one another at such trying times.",
+        "link": "https://github.com/everly-gif/covidport"
+      }
+    ]
+
+   
+  }
+}
