@@ -12,15 +12,13 @@ function App() {
       <div className="container">
         <table>
           <tbody>
-            <Intro Data={Config.Intro} />
+            <Intro Data={Config.Intro} DataSocial={Config.Social} />
             <Skills Data={Config.Skills} />
             <Work Data={Config.Work} />
             <Contactme />
           </tbody>
         </table>
       </div>
-      <div id="snackbar"></div>
-      <div id="snackbar2"></div>
     </>
   );
 }

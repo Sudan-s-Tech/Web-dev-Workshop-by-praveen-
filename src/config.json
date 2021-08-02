@@ -62,5 +62,15 @@
       "name": "Book Finder",
       "descr": "Find all of your favourite books at one place"
     }
+  ],
+  "Social": [
+    {
+      "plat": "github",
+      "link": "https://github.com/geekymeeky"
+    },
+    {
+      "plat": "linkedin",
+      "link": "https://www.linkedin.com/in/srijan-gupta-b0a3b11b6/"
+    }
   ]
 }
