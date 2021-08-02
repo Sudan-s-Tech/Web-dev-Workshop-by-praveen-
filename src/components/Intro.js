@@ -1,7 +1,7 @@
 import React from "react";
 import Social from "./Social";
 
-const Intro = ({ Data }) => {
+const Intro = ({ Data, DataSocial }) => {
   const { name, profession, gitusr, qualification, hobbies, lang } = Data;
   return (
     <tr>
@@ -61,7 +61,7 @@ const Intro = ({ Data }) => {
             ))}
           </div>
         </section>
-        <Social />
+        <Social Data={DataSocial} />
       </td>
     </tr>
   );
