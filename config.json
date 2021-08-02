@@ -1,0 +1,128 @@
+{
+  "Sidebar": {
+    "Profile": {
+      "Name": "Sandeep Kumar",
+      "Image": "https://github.com/sk9873422561/portfolio/blob/master/profile.jpg?raw=true",
+      "Role": "Web Developer"
+    },
+    "ContactInfo": [
+      {
+        "Icon": "phone",
+        "Text": "+91 987 654 3210"
+      },
+      {
+        "Icon": "envelope-o",
+        "Text": "sk9873422561@gmail.com"
+      },
+      {
+        "Icon": "globe",
+        "Text": "https://sk9873422561.github.io/portfolio/"
+      },
+      {
+        "Icon": "linkedin",
+        "Text": "https://www.linkedin.com/in/sandeep-kumar-9a2290143"
+      },
+      {
+        "Icon": "map-marker",
+        "Text": "Delhi-NCR, INDIA"
+      }
+    ],
+    "Education": [
+      {
+        "Years": "2019 - 2023",
+        "Degree": "Bachelor Degree Computer Science",
+        "Univ": "AKTU (NIET)"
+      },
+      {
+        "Years": "2012 - 2012",
+        "Degree": "Matriculation",
+        "Univ": "H.M.D.A.V Sr. Sec. School, Daryaganj"
+      }
+    ],
+    "Languages": [
+      {
+        "Name": "NodeJS",
+        "Mark": 80
+      },
+      {
+        "Name": "React",
+        "Mark": 25
+      },
+      {
+        "Name": "JavaScript",
+        "Mark": 45
+      },
+      {
+        "Name": "Context API",
+        "Mark": 15
+      },
+      {
+        "Name": "Python",
+        "Mark": 0
+      }
+    ]
+  },
+
+  "Main": {
+    "aboutYou": {
+      "descriptionPara1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi  aliquip ex ea commodo consequat.",
+      "descriptionPara2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cup sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "expDetails": [
+      {
+        "duration": "2020 - Present",
+        "company_Name": "Company Name",
+        "role": "Senior UX Developer",
+        "role_Description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "duration": "2018 - 2020",
+        "company_Name": "Company Name",
+        "role": "UX Developer",
+        "role_Description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "duration": "2016 - 2018",
+        "company_Name": "Company Name",
+        "role": "Junior UX Developer",
+        "role_Description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ],
+    "skills": [
+      {
+        "skill": "HTML",
+        "efficiency": 80
+      },
+      {
+        "skill": "Photoshop",
+        "efficiency": 40
+      },
+      {
+        "skill": "Illustrator",
+        "efficiency": 30
+      },
+      {
+        "skill": "Adobe XD",
+        "efficiency": 50
+      }
+    ],
+    "interests": [
+      {
+        "Icon": "book",
+        "Text": "Reading"
+      },
+      {
+        "Icon": "gamepad",
+        "Text": "Gaming"
+      },
+      {
+        "Icon": "cutlery",
+        "Text": "Cooking"
+      },
+      {
+        "Icon": "microphone",
+        "Text": "Singing"
+      }
+    ]
+  }
+}
