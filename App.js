@@ -1,5 +1,5 @@
-import Main from "./MainProfile/Main";
-import Sidebar from "./Sidebar/Sidebar";
+import Main from "./Main";
+import Sidebar from "./Sidebar";
 import Config from "./config.json";
 import "./styles.css";
 
