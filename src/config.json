@@ -1,0 +1,76 @@
+{
+  "Intro": {
+    "name": "Srijan Kr. Gupta",
+    "profession": "web development",
+    "gitusr": "geekymeeky",
+    "qualification": [
+      "Master Of Technology (Computer Science)",
+      "Bachelor Of Science (Computer Science)"
+    ],
+    "hobbies": "Playing Cricket and Travelling",
+    "lang": [
+      {
+        "name": "English",
+        "prcnt": "75"
+      },
+      {
+        "name": "Hindi",
+        "prcnt": "85"
+      },
+      {
+        "name": "Bengali",
+        "prcnt": "60"
+      }
+    ]
+  },
+  "Skills": [
+    {
+      "lang": "HTML",
+      "prcnt": 80
+    },
+    {
+      "lang": "CSS",
+      "prcnt": 65
+    },
+    {
+      "lang": "ReactJS",
+      "prcnt": 60
+    },
+    {
+      "lang": "Python",
+      "prcnt": 80
+    },
+    {
+      "lang": "Google Cloud",
+      "prcnt": 75
+    }
+  ],
+  "Work": [
+    {
+      "name": "Mausam",
+      "descr": "A weather application built using flutter"
+    },
+    {
+      "name": "JS-games",
+      "descr": "A curated collection of games built using JavaScript"
+    },
+    {
+      "name": "DataMed",
+      "descr": "Disease prediction Web-App built using Python and Machine Learning"
+    },
+    {
+      "name": "Book Finder",
+      "descr": "Find all of your favourite books at one place"
+    }
+  ],
+  "Social": [
+    {
+      "plat": "github",
+      "link": "https://github.com/geekymeeky"
+    },
+    {
+      "plat": "linkedin",
+      "link": "https://www.linkedin.com/in/srijan-gupta-b0a3b11b6/"
+    }
+  ]
+}
